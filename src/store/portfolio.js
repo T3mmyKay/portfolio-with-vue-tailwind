@@ -1,0 +1,1 @@
+export const portfolio_images = ['work1.png', 'work2.png', 'work-3.png', 'work-4.png', 'work-5.png'];
